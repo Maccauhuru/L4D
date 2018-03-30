@@ -1,0 +1,20 @@
+{
+  "name": "laptop4donations",
+  "version": "1.0.0",
+  "description": "Web App For Laptop Donations",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "laptops",
+    "donations",
+    "free",
+    "laptops"
+  ],
+  "author": "S.L.Mupfukudzwa",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
